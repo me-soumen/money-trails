@@ -1,0 +1,27 @@
+{
+  "short_name": "Money Trails",
+  "name": "Money Trails - Personal Investment Tracker",
+  "description": "Your personal investment companion. Track EPF, PPF, FD, Mutual Funds, and all Indian investments in one place.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f0a500",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary"
+} 
